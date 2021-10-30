@@ -25,7 +25,7 @@ function gotResult(error, results){
 }
 
 function preload(){
-    img = loadImage('dog_cat.jpg');
+    img = loadImage('https://cdn2.unrealengine.com/egs-pcbuildingsimulator-theirregularcorporation-g1a-09-1920x1080-bdf18eaeab42.jpg?h=720&resize=1&w=1280');
 }
 
 function draw(){
